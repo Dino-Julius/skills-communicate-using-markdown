@@ -22,3 +22,10 @@ int main() {
 ```
 
 I just added a code block of C++.
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [x] Be greater!
+
+I just added a task list.
